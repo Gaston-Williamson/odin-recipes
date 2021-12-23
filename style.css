@@ -1,0 +1,11 @@
+header {
+  color: aqua;
+}
+p {
+  color: white;
+  background-color: black;
+}
+img {
+  height: auto;
+  width: 500px;
+}
